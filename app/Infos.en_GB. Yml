@@ -1,0 +1,61 @@
+Alaye:
+    gbe si:
+        aworan: |
+            Lo aaye yii lati gbe aworan tabi aworan kan. Tẹ bọtini lati gbe faili kan lati ọdọ rẹ
+            kọmputa, tabi ti o ba nlo ẹyà ti Chrome tabi Firefox kan laipe, o le jiroro ni fa faili naa
+            lati tabili rẹ tabi lati window window ti o yatọ. <br/>
+            Ni bakanna, o le lo aworan ti o ti gbe tẹlẹ. Lati yan faili ti o ti gbe tẹlẹ, o kan
+            iru (apakan) ti orukọ ninu aaye agbegbe, ati pe yoo mu idaduro.
+        faili: |
+            Lo aaye yii lati ṣajọ faili kan lati fi sii bi gbigba lati ayelujara tabi lati lo inu iwe kan lori
+            aaye ayelujara. Tẹ bọtini lati gbe faili kan lati inu komputa rẹ, tabi ti o ba nlo ẹyà kan to ṣẹṣẹ
+            ti Chrome tabi Akata bi Ina, o le jiroro ni fa faili lati tabili rẹ tabi lati oriṣiriṣi
+            window window. <br />
+            Ni ọna miiran, o le lo faili ti o ti gbe tẹlẹ. Lati yan faili ti o ti gbe tẹlẹ, o kan
+            iru (apakan) ti orukọ ninu aaye agbegbe, ati pe yoo mu idaduro.
+        iwe faili: |
+            Lo aaye yii lati ṣajọ awọn faili pupọ ati diẹ ninu awọn apejuwe. Gẹgẹbi aaye "faili" kan, ọkan laipe
+            awọn ẹya ẹrọ lilọ kiri ayelujara le ni oye ti o nfa faili kan sinu aaye titẹ. Boya fun un ni idanwo?
+        awọn faili: |
+            Lo bọtini lati gbe faili kan. Lati yan faili ti a ti gbe tẹlẹ, o le
+            iru (apakan) ti orukọ ninu aaye agbegbe, ati pe yoo mu idaduro.
+        imagelist: |
+            Lo aaye yii lati gbekalẹ awọn aworan tabi aworan kan. Tẹ bọtini lati gbe faili kan lati ọdọ rẹ
+                kọmputa, tabi ti o ba nlo ẹyà ti Chrome kan laipe
+pinpin aaye ayelujara. <br>
+                  Bolt yoo gba awọn & amupu laifọwọyi; lt; fi sabe & amp; gt; -code, pẹlu iwọn to tọ, iga ati atilẹba
+                  akole. Ti o ba yi iwọn tabi giga rẹ pada, iye miiran yoo yipada ni ibamu, lati ṣetọju
+                  aspect aspect.
+    geolocation: |
+        Lo aaye yii lati gba geolocation ti eyikeyi adirẹsi, tabi gbe awọn aami
+            pẹlu ọwọ nipa fifa pin. Akọkọ, tẹ adirẹsi (adiro) kan ninu aaye 'address'-field,
+            ati wiwọn ti o baamu ati longitude yoo wa ni lilo nipa lilo Google Maps API,
+            paapọ pẹlu adirẹsi to sunmọ julọ, ni ibamu si Google. <br>
+            Ti o ba fẹ gbe aami si ipo ti o yatọ, o kan drag'n'drop
+PIN lori mini-map. Awọn latitude ati longitude yoo wa ni imudojuiwọn laifọwọyi.
+    samisi: |
+        Markdown jẹ ọpa iyipada ọrọ-si-HTML fun awọn onkọwe ayelujara.
+            <p> Markdown faye gba o lati kọ nipa lilo ọna kika ti o rọrun-si-kika, rọrun-si-kọ,
+            eyi ti a ṣe iyipada si HTML ti o wulo. </ p>
+            <p> <lagbara> Itọkasi ni kiakia: </ strong> <br>
+            # Eyi jẹ ẹya & lt; h1 & gt; -tag <br>
+            ## Eleyi jẹ ẹya & Lt; h2 & gt; -tag <br>
+            ###### Eleyi jẹ ẹya & Lt; h6 & gt; -tag </ p>
+            <p> Yi _ <em> jẹ italic </ em> _, yi __ <lagbara> ni igboya / / lagbara> __, ati eyi
+            ___ <em> <lagbara> jẹ mejeji </ strong> </ em> ___. O tun le lo awọn asterixes: This * <em> is italic </ em> *,
+            yi ** <lagbara> ni igboya </ lagbara> **.
+            <p> Ṣẹda <a href='#'> awọn ìjápọ </a> bi eyi: <br>
+            [Aaye ayelujara ti o wuwo (HTTP: // apẹẹrẹ .rg / & amp;; akọle asopọ & amupu;); </ p>
+            <p> & nbsp; * Eyi jẹ akojọ ti a ko ni idajọ -
+            & nbsp; * Igbesẹ 2 </ p>
+            <p> & nbsp; 1 Eyi ni akojọ ti a paṣẹ -
+            & nbsp; 2 Ohun kan 2 </ p>
+    ibasepo: |
+        Nipa yiyan awọn igbasilẹ miiran bi 'ibatan', o jẹ otitọ
+            Ṣiṣẹda asopọ laarin igbasilẹ yii, ati ọkan ti o yan. Lori
+            aaye ayelujara, eyi le ṣe nipasẹ lilo fun 'awọn ohun ti o jọmọ', 'wo tun' tabi lati han
+            bawo ni igbasilẹ yii ṣe yẹ si ọna kan.
+    taxonomy: |
+        Nipa yiyan ọkan tabi diẹ taxonomies fun igbasilẹ yii,
+                  o n ṣe afiwe igbasilẹ yii lati ni awọn ohun-ini naa. Lori
+                  aaye ayelujara le ṣee lo si
